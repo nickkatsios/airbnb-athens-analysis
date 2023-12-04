@@ -19,3 +19,5 @@ source $(poetry env info -p)/bin/activate
 ```bash
 jupyter notebook ./airbnb_athens_analysis/assignment.ipynb
 ```
+### Notes 
+This project was made as an assignement of the Applied Machine Learning course at DMST AUEB.
